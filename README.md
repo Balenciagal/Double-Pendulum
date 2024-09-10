@@ -1,5 +1,5 @@
 # Double-Pendulum
-The code for the double pendulum sim
+The code for the double pendulum simulation
 
 ## Usage
 
@@ -12,7 +12,7 @@ import doublePendulum.py as dp
 2. Run the `dp.sim` function.
 3. To display the results you can use `dp.plott` or `dp.animate` functions.
 
-### Sim
+### simulation
 
 This function is the main function of the simulation, you should run it to generate the results of the simulation. It will reseve the initial parameters.  
 example:  
